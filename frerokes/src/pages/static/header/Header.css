@@ -16,7 +16,7 @@
   font-weight: bold;
   font-size: 20px;
   /* padding: 0 3rem; */
-  margin: 0 3rem;
+  margin-left :3rem;
 }
 
 #navLinkimg span{
@@ -29,11 +29,11 @@
   width: 80px;
   
 }
-#login{
+/* #login{
   margin-left: 20px;
-}
+} */
 
-#navLogin .icon{
-  
+#navLogin i{
+  font-size: 25px;
 }
 
